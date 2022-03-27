@@ -1,14 +1,6 @@
 ## Hi there 👋
 
 ### <div align="center">I'm Muard, Web Developer 👨‍💻</div>  
-  
-
-- 🌱 I’m currently working as Backend Developer   
-  
-
-- ⚡️ Fun fact: no fun  
-  
-
 <br/>  
 
 <div align="center">
