@@ -3,10 +3,7 @@
 ### <div align="center">I'm Muard, Web Developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently working as Backend Developer  
-  
-
-- ❓ Ask me about anything Java and related technologies  
+- 🌱 I’m currently working as Backend Developer   
   
 
 - ⚡️ Fun fact: no fun  
@@ -49,7 +46,7 @@
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muardorucov" align="right" /></div>  
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)  
+<!-- ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)   -->
 
 <br/>  
 
