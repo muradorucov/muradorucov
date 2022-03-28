@@ -16,9 +16,8 @@
 
 
 ## Github Stats  
- <div align="right">   
-  ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)  
-</div> 
+   <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true" align="right" /></div>
+ 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradorucov&layout=compact)](https://github.com/muradorucov/github-readme-stats)
 
