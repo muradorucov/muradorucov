@@ -16,9 +16,9 @@
 
 
 ## Github Stats  
-  <div align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradorucov&layout=compact)](https://github.com/muradorucov/github-readme-stats)</div> 
+  <div align="right">   ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)  
+</div> 
 
-  ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradorucov&layout=compact)](https://github.com/muradorucov/github-readme-stats)
 
 <br/>  
