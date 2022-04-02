@@ -31,12 +31,12 @@
   <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradorucov&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />  
 
 </div>
-
+<br>
 <div align=center>
   
   | ![](https://komarev.com/ghpvc/?username=muradorucov&color=blue) |
  
-  *started counting on 23/09/2021
+  *started counting on 02/04/2022
   
 </div> 
 
