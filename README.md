@@ -1,6 +1,24 @@
+## My Skill Set  
+<table>
+  <tr>
+    <td valign="top" width="100%">
+
+  ### Frontend  
+  <div align="center">  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" height="80" />  
+    <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="80" />    
+  </div>
+  </td>
+</table>  
+
+</div>  
+
+<br/>  
+
 ## Hi there 👋
 
-### <div align="center">I'm Muard, Web Developer 👨‍💻</div>  
+### <div align="center"> **I'm Muard, Web Developer** 👨‍💻</div>  
 <br/>   
 
                                                                                                                                          
