@@ -18,7 +18,6 @@
 ## Hi there 👋
 
 ### <div align="center"> **I'm Muard, Web Developer** 👨‍💻</div>  
-<br/>   
 
 ## Github Stats  
 
@@ -50,6 +49,4 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@orucowmurad)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/muradorucow/)
 </p>
-
-<br />
 </p>  
