@@ -25,19 +25,41 @@
 
                                                                                                                                          
 ## Connect with me  
-  <a href="https://github.com/muradorucov" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/muradorucov/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  
-<br/>  
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/muradorucow/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muradorucov/) 
+  <a href="mailto:orucowmurad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>[<img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cavid-haciyev-386hc/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@orucowmurad)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/muradorucow/)
+</p>
+
+<br />
+<br />
+
+
+</p>  
 
 
 ## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradorucov&layout=compact)](https://github.com/muradorucov/github-readme-stats)
+<div align=center>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=muradorucov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=muradorucov&theme=tokyonight&hide_border=true" />
+  <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradorucov&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />  
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)  
+</div>
+ 
+
+<br>
+
+<div align=center>
+  
+  | ![](https://komarev.com/ghpvc/?username=muradorucov&color=blue) |
+ 
+  *started counting on 23/09/2021
+  
+</div> 
 
 <br/>  
