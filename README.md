@@ -31,13 +31,6 @@
   <img align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradorucov&show_icons=true&theme=tokyonight&layout=compact" alt="developer-metalhead" />  
 
 </div>
- 
-=======
- ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=muradorucov&show_icons=true&count_private=true)   
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradorucov&layout=compact)](https://github.com/muradorucov/github-readme-stats)
-
-<br>
 
 <div align=center>
   
