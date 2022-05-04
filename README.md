@@ -19,11 +19,14 @@
 
 ### <div align="center"> **I'm Muard, Web Developer** 👨‍💻</div>  
 
-## Github Stats  
+## 🏆 Github Profile Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradorucov" alt="bbarisbolat" /></a> </p>
+<p align="left"> <a href="https://github.com/muradorucov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradorucov&margin-w=15" alt="bbarisbolat" /></a> </p>
 
 <br>
+
+## Github Stats  
+
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=muradorucov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=muradorucov&theme=tokyonight&hide_border=true" />
