@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### <div align="center"> **I'm Muard, Web Developer** 👨‍💻</div>  
+### <div align="center"> **I'm Murad, Web Developer** 👨‍💻</div>  
 
 ## 🏆 Github Profile Trophy
 
