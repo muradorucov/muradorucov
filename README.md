@@ -10,8 +10,8 @@
 
 ## 😎✌ Github Stats  
 <div align=center>
-  <img width="400" height="200" src="https://readme-stats.clckblog.space/api?username=muradorucov&theme=merko&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400" height="200"  src="https://github-readme-streak-stats.herokuapp.com?user=muradorucov&theme=merko&hide_border=true" />
+  <img width="400" height="300" src="https://readme-stats.clckblog.space/api?username=muradorucov&theme=merko&show_icons=true&hide_border=true&count_private=true" />
+  <img width="400" height="300"  src="https://github-readme-streak-stats.herokuapp.com?user=muradorucov&theme=merko&hide_border=true" />
   <img align="left"><img width="50%" src="https://readme-stats.clckblog.space/api/top-langs?username=muradorucov&show_icons=true&theme=merko&layout=compact" alt="developer-metalhead" />  
 
 </div>
